@@ -1,0 +1,27 @@
+.all
+{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+    table{
+    border: 5px solid rgb(14, 13, 12);
+padding: 5px;
+justify-content: center;
+}
+.prop
+{
+    font-size: 100px;
+    height: 100px;
+    width: 315px;
+    border: 8px solid black;
+}
+td{
+    border: 2px solid chocolate;
+padding: 5px;
+}
+button
+{
+    font-size:20px;
+    padding: 20px;
+    text-align: center;
+}
